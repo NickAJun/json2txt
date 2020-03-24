@@ -1,0 +1,1 @@
+You should put all the train set images in this directory. 

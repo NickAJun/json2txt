@@ -1,0 +1,1 @@
+You should put all the test set images in this directory. 
